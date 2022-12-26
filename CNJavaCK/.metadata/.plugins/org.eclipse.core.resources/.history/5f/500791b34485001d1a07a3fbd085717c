@@ -1,0 +1,5 @@
+package WebBanSachSpringMVC.Controller;
+
+public class AdminController {
+
+}
